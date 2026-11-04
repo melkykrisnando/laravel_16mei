@@ -1,5 +1,6 @@
 <?php
 
+class <a href=""></a>
 namespace Database\Factories;
 
 use App\Models\User;
